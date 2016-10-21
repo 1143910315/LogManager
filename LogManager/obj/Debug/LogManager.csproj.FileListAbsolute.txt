@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\LogManager\LogManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\LogManager\LogManager\bin\Debug\LogManager.exe
+C:\Users\Administrator\Documents\GitHub\LogManager\LogManager\bin\Debug\LogManager.pdb
+C:\Users\Administrator\Documents\GitHub\LogManager\LogManager\obj\Debug\LogManager.exe
+C:\Users\Administrator\Documents\GitHub\LogManager\LogManager\obj\Debug\LogManager.pdb
